@@ -4,7 +4,7 @@ import Header from './components/Header'
 
 export default function Layout() {
     return (
-        <div>
+        <div className=''>
             <Header></Header>
         </div>
     )
